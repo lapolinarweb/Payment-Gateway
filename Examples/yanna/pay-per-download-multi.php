@@ -1,3 +1,4 @@
+"COVID19",
 <?php
 /**
  * @category    Example4 - Pay-Per-Download (payments in multiple cryptocurrencies, you can use original price in USD)
